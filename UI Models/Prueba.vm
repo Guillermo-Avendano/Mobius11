@@ -1,0 +1,49 @@
+{"editors": {
+    "variables": {},
+    "tabName": "Prueba.vm",
+    "packIcon": {
+        "fileJson": "",
+        "fileName": "",
+        "displayName": "",
+        "source": "",
+        "projectName": "",
+        "type": "image"
+    },
+    "isValid": true,
+    "index": 0,
+    "url": "/rest",
+    "customVariables": {
+        "checksum_old": "",
+        "list": [],
+        "checksum_new": 0
+    },
+    "assetsChecksum": {
+        "checksum_old": "",
+        "checksum_new": 223132457
+    },
+    "customClasses": {},
+    "pages": [{
+        "pageLifeCycle": {
+            "selectedlifecycle": "",
+            "lifeCycle": []
+        },
+        "checksum_old": "",
+        "defaultPage": true,
+        "validName": true,
+        "name": "View1",
+        "id": "xxx_3982014",
+        "validUrl": true,
+        "routingUrl": "view1",
+        "content": {
+            "css": ".wrapper_asg_bkgrd",
+            "wrapperclasses": ["wrapper_asg_bkgrd"],
+            "wrapperstyles": {},
+            "html": "<div ui-modeller-type=\"header\" id=\"header-pqikobz9cgj\" label=\"View-1\" class=\"header\"><span id=\"span-mo7b6a8b9up\">View-1<\/span><\/div><div ui-modeller-type=\"um-container\" id=\"um-container-j27ftobp4q\" class=\"um-control\"><mat-form-field ui-modeller-type=\"text\" global=\"true\" label=\"Enter Text\" id=\"text-gon18d3p9r4\" validations-id-mapping=\"{&quot;Id&quot;:&quot;16c283f1-8de5-4463-b0a8-a179f21df23b&quot;,&quot;Reference&quot;:&quot;7ffd321b-9a88-43ae-b31f-239cf09d4ab8&quot;}\" variable-id-mapping=\"{&quot;Reference&quot;:&quot;5c452574-c8ed-4331-84d7-feebcbde5bf4&quot;}\" class=\"example-full-width mat-form-field ng-tns-c25-3 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder\"><div data-invisible=\"\" id=\"div-2p0ufeplhoh\" class=\"mat-form-field-wrapper\"><div data-invisible=\"\" id=\"div-du7sfkrqxp\" class=\"mat-form-field-flex\"><div data-invisible=\"\" id=\"div-cp920huaq7j\" class=\"mat-form-field-infix\"><input data-invisible=\"\" matinput=\"\" placeholder=\"Enter Text\" disabled=\"\" id=\"mat-input-0\" aria-invalid=\"false\" aria-required=\"false\" class=\"mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored\"/><span data-invisible=\"\" id=\"span-ui05btxea6q\" class=\"mat-form-field-label-wrapper\"><label data-invisible=\"\" id=\"mat-form-field-label-1\" for=\"mat-input-0\" aria-owns=\"mat-input-0\" class=\"mat-form-field-label ng-tns-c25-3 ng-star-inserted mat-empty mat-form-field-empty\">Enter Text<\/label><\/span><\/div><\/div><div data-invisible=\"\" id=\"div-73l7x78um5f\" class=\"mat-form-field-underline ng-tns-c25-3 ng-star-inserted\"><span data-invisible=\"\" id=\"span-b8o5ib4tqed\" class=\"mat-form-field-ripple\"><\/span><\/div><div data-invisible=\"\" id=\"div-5td6uvmddao\" class=\"mat-form-field-subscript-wrapper\"><div data-invisible=\"\" class=\"mat-form-field-hint-wrapper ng-tns-c25-3 ng-trigger ng-trigger-transitionMessages ng-star-inserted\" id=\"ij8fb\"><div data-invisible=\"\" id=\"div-8ovs6gxk2oa\" class=\"mat-form-field-hint-spacer\"><\/div><\/div><\/div><\/div><\/mat-form-field><\/div>"
+        },
+        "checksum_new": 4194494143
+    }],
+    "assets": [],
+    "id": "mdt_visual_editor_root",
+    "validations": {},
+    "globalCss": "*{ box-sizing: border-box; } body{margin: 0;} .fix8d0a106e05b2{position: fixed;}#ij8fb{opacity:1;transform:translateY(0%);}"
+}}
